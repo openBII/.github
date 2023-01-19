@@ -4,5 +4,5 @@ OpenBII (Open Brain Inspired Intelligence) 在“中国脑计划”框架下，�
 
 ## 项目构成
 
-![Figure](../figures/First_stage.png)
+![Figure](../figures/First_stage.png)(https://github.com/openBII/.github/blob/master/figures/First_stage.png)
 
