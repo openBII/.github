@@ -15,3 +15,10 @@ OpenBII开源项目主要面向类脑算法与应用研究和类脑系统与架�
 
 ![Figure](https://github.com/openBII/.github/blob/master/figures/First_stage.png)
 
+## 合作组织
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/openBII/.github/blob/master/figures/cnaeit_logo.jpg" alt="cnaeit" width="240" />
+  <img src="https://github.com/openBII/.github/blob/master/figures/lynxi_logo.png" alt="lynxi" width="250" />
+  <img src="https://github.com/openBII/.github/blob/master/figures/tsinghua_brain_inspired_computing_reserch_logo.jpg" alt="tsinghua" width="100" />
+  <img src="https://github.com/openBII/.github/blob/master/figures/tsinghua_brain_and_intelligence_logo.png" alt="tsinghua" width="180" />
+</div>
