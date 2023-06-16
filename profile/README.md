@@ -4,16 +4,17 @@ OpenBII (Open Brain Inspired Intelligence) 在“中国脑计划”框架下，�
 
 OpenBII开源项目主要面向类脑算法与应用研究和类脑系统与架构研究。发展类脑计算技术，赋能未来人工智能研究，未来脑科学研究，以及高性能计算三个主要领域。希望能为神经计算群体提供高效软硬件平台以促进神经科学发展，并为类脑计算研究群体提供试用类脑计算硬件平台的机会以促进类脑计算生态建设。同时推广类脑计算技术的使用，为开发者提供高效的类脑计算芯片应用和部署接口，为类脑计算的研究人员提供灵活、可定制的基础框架。
 
+
+
 ## 项目构成
 
-本项目第一阶段主要包含四个工程：<br />
-1. Bi-Map 面向类脑众核的层次化编译策略与架构设计探索工具 <br />
-2. Neurai 支持大规模脑仿真，支持深度学习与脑仿真模型融合搭建 <br />
-3. LynBIDL 商用类脑计算芯片自动化部署工具，一分钟内构建自己的深度ANN+SNN异构融合网络，实现类脑时空融合处理  <br />
-4. BIVM 满足面向AI、神经科学以及两者融合的应用的简捷开发工具，高效驱动各类架构迥异的类脑处理器
+本项目第一阶段开源项目主要包含两个工程：<br />
+1. Neurai 为类脑计算及人工智能相关研究人员提供的灵活、可定制的高性能通用神经网络框架 <br />
+2. BIDL 商用类脑计算芯片自动化部署工具，一分钟内构建自己的深度ANN+SNN异构融合网络，实现类脑时空融合处理  <br />
 
 
-![Figure](https://github.com/openBII/.github/blob/master/figures/First_stage.png)
+
+
 
 ## 合作组织
 <div style="display: flex; justify-content: space-between;">
@@ -22,3 +23,4 @@ OpenBII开源项目主要面向类脑算法与应用研究和类脑系统与架�
   <img src="https://github.com/openBII/.github/blob/master/figures/tsinghua_brain_inspired_computing_reserch_logo.jpg" alt="tsinghua" width="100" />
   <img src="https://github.com/openBII/.github/blob/master/figures/tsinghua_brain_and_intelligence_logo.png" alt="tsinghua" width="180" />
 </div>
+
